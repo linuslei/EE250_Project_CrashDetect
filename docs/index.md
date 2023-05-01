@@ -1,16 +1,28 @@
----
-layout: default
-title: My Simple Website
----
+# EE250_Project_CrashDetect
 
-# Welcome to My Simple Website
+Team Member: Linus Lei, Way Zheng
 
-This is a GitHub Pages site built using Markdown.
+Base Features:
 
-## About
+1.Crash detect based on Acclerometer and Sound Sensor
 
-My Simple Website is a demonstration of how to create a static website using GitHub Pages and Markdown. Here, you can learn the basics of Markdown and see how it renders to HTML.
+2.Ultrasonic Sensor for additional info
 
-### Markdown Examples
+3.Prompt Mechanism
 
-**Bold text**:
+4.Report system based on MQTT
+
+Upcoming Features:
+
+1.GPS info
+
+2.ML/Advanced Signal processing
+
+3.More Front-End stuff
+
+Things to do:
+1.Acclerometer
+
+2.Re-flash Pi so that it can use GrovePi
+
+3.Rewrite Crash_detect.py to fit GrovePi
