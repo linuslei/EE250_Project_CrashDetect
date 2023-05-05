@@ -1,33 +1,28 @@
 # EE250_Project_CrashDetect
 
 Team Member: Linus Lei, Way Zheng
+Hardware Instructions:
+Build according to graph given in the WRITE-UP.pdf
 
-Base Features:
+Software Instructions:
+1.Load the entire file to Raspberry Pi as well as your laptop.
+2.Run the Rpi.py on Raspberry Pi
+3.Run the Host.py on Laptop
 
-1.Crash detect based on Acclerometer and Sound Sensor
+External Library Used:
+time
+paho.mqtt.client
+socket
+base64
+picamera2
+RPi.GPIO
+requests
+json
+paho.mqtt.publish
+board
+busio
+adafruit_mpu6050
+Adafruit_MCP3008、
+numpy
 
-2.Ultrasonic Sensor for additional info
-
-3.Prompt Mechanism
-
-4.Report system based on MQTT
-
-Upcoming Features:
-
-1.GPS info
-
-2.ML/Advanced Signal processing
-
-3.More Front-End stuff
-
-Things to do:
-1.Acclerometer
-
-2.Re-flash Pi so that it can use GrovePi
-
-3.Rewrite Crash_detect.py to fit GrovePi
-
-
-*README.txt file contains team member names, link to video demo,
-instructions to compile/execute your code, and list of any external
-libraries used
+Link To Demo:
