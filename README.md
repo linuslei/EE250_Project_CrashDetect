@@ -1,4 +1,4 @@
-# EE250_Project_CrashDetect
+# EE250 Project CrashDetect README
 
 Team Member: Linus Lei, Way Zheng
 Hardware Instructions:
