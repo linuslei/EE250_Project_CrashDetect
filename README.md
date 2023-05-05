@@ -12,6 +12,7 @@ Software Instructions:
 2.Run the Rpi.py on Raspberry Pi
 
 3.Run the Host.py on Laptop
+（Note: Change the API key before use just in case)
 
 External Library Used:
 time
