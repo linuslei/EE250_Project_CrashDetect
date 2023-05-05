@@ -26,3 +26,8 @@ Things to do:
 2.Re-flash Pi so that it can use GrovePi
 
 3.Rewrite Crash_detect.py to fit GrovePi
+
+
+*README.txt file contains team member names, link to video demo,
+instructions to compile/execute your code, and list of any external
+libraries used
